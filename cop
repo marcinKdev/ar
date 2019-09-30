@@ -1,0 +1,3044 @@
+{
+"success": true,
+"errors": [],
+"internal_errors": [],
+"serverTime": "2019-09-30 11:53:08",
+"metadata": {
+"current": [
+{
+"id_campaign": "8322",
+"name": "Westwing Fall Box",
+"subline": "Vytvorili sme pre vás nádherne zabalenú sadu s rýchlym odoslaním!",
+"description": "Pozývame vás na premiéru sady Westwing Fall Box! Prvýkrát predstavujeme škatuľku s prekvapením, ktorú sme sami vytvorili. Zabalili sme do nej 5 našich bestsellerových nevyhnutností potrebných na jeseň. Nechceme prezradiť všetko, ale vo vnútri nájdete napr. sviečku Parks London, teplú foutu alebo girlandu, ktoré sa postarajú o dobrú náladu v interiéri. A to všetko bude zabalené v dekoratívnej škatuľke! Je to ideálny darček pre milovanú osobu alebo... pre seba.",
+"url_key": "kampan-westwing-fall-box",
+"newsletter_urlkey": "c-2082",
+"start_time": "2019-09-30 08:00:00",
+"start_time_formatted": "dnes",
+"end_time": "2019-10-03 23:00:00",
+"end_time_formatted": "št, 3.10.  ",
+"remaining_days_formatted": "Kampaň sa končí o 3 d.",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLAUTU9/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLAUTU9/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLAUTU9/original_43",
+"width": 640,
+"height": 480
+},
+"editorial_banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_l/v1569837167/club/sk/campaign/PLAUTU9/campaign_l",
+"width": 912,
+"height": 1000
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLAUTU9/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLAUTU9/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8292",
+"name": "Brabantia",
+"subline": "Dizajnérske bytové doplnky holandskej značky",
+"description": "Nevieme si predstaviť život bez doplnkov značky Brabantia! Teraz môžete mať tieto holandské výrobky aj u vás doma. V tejto kampani sme pre vás pripravili okrem iného aj koše na recyklovanie odpadu, kuchynské doplnky, žehliace dosky a sušiaky na bielizeň od Brabantie. Sú perfektne navrhnuté a veľmi praktické. Musíte ich mať!",
+"url_key": "kampania-brabantia12",
+"newsletter_urlkey": "c-2064",
+"start_time": "2019-09-30 08:00:00",
+"start_time_formatted": "dnes",
+"end_time": "2019-10-03 23:00:00",
+"end_time_formatted": "št, 3.10.  ",
+"remaining_days_formatted": "Kampaň sa končí o 3 d.",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBRAB15/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBRAB15/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBRAB15/original_43",
+"width": 640,
+"height": 480
+},
+"editorial_banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_l/v1569837167/club/sk/campaign/PLBRAB15/campaign_l",
+"width": 912,
+"height": 1000
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBRAB15/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBRAB15/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": null,
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8286",
+"name": "Sila je žena!",
+"subline": "Nábytok, doplnky a dekorácie pre Power Girl",
+"description": "V dnešnej kampani poukazujeme na to, že to, čo je ženské a jemné, má tiež pokoj, silu a vytrvalosť! Prezrite si kolekciu nábytku, doplnkov a dekorácií v jemných farbách a zaujímavých tvaroch, ktoré premenia váš interiér na ženský ale výrazný priestor, v ktorom každá z nás môže čerpať energiu a nové nápady.",
+"url_key": "kampan-sila-je-zena",
+"newsletter_urlkey": "c-205e",
+"start_time": "2019-09-30 08:00:00",
+"start_time_formatted": "dnes",
+"end_time": "2019-10-06 23:00:00",
+"end_time_formatted": "ne, 6.10.  ",
+"remaining_days_formatted": "Kampaň sa končí o 6 d.",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLTHEW4/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLTHEW4/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLTHEW4/original_43",
+"width": 640,
+"height": 480
+},
+"editorial_banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_l/v1569837167/club/sk/campaign/PLTHEW4/campaign_l",
+"width": 912,
+"height": 1000
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLTHEW4/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLTHEW4/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": null,
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8289",
+"name": "Jeseň v New Hempshire",
+"subline": "Útulná kolekcia inšpirovaná malebným regiónom USA",
+"description": "New Hampshire je americký región známy vidieckymi idylickými krajinkami a jesennými lesmi žiariacimi tisícmi farieb. Inšpirovali sme sa týmto malebným miestom a vytvorili sme pre vás kampaň, v ktorej nájdete rustikálny nábytok, prírodné dekorácie a textílie v neutrálnych farbách. Pozvite jeseň do svojho príbytku!",
+"url_key": "kampan-jesen-v-new-hempshire",
+"newsletter_urlkey": "c-2061",
+"start_time": "2019-09-30 08:00:00",
+"start_time_formatted": "dnes",
+"end_time": "2019-10-06 23:00:00",
+"end_time_formatted": "ne, 6.10.  ",
+"remaining_days_formatted": "Kampaň sa končí o 6 d.",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLNEWH1/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLNEWH1/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLNEWH1/original_43",
+"width": 640,
+"height": 480
+},
+"editorial_banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_l/v1569837167/club/sk/campaign/PLNEWH1/campaign_l",
+"width": 912,
+"height": 1000
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLNEWH1/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLNEWH1/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": null,
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8290",
+"name": "OBB",
+"subline": "Luxusné prikrývky a vankúše nemeckej značky",
+"description": "Vhodná prikrývka je zárukou dobrého spánku. Odborníkom v tomto smere je nemecká spoločnosť OBB, ktorá pôsobí na trhu od roku 1900. Zameriava sa na výrobu vysoko kvalitných prikrývok a vankúšov pre tých najnáročnejších zákazníkov. V našej kampani sa produkty líšia hrúbkou, takže si každý môže vybrať taký, ktorý mu bude najviac vyhovovať.",
+"url_key": "kampania-obb6",
+"newsletter_urlkey": "c-2062",
+"start_time": "2019-09-30 08:00:00",
+"start_time_formatted": "dnes",
+"end_time": "2019-10-03 23:00:00",
+"end_time_formatted": "št, 3.10.  ",
+"remaining_days_formatted": "Kampaň sa končí o 3 d.",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLOBB03/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLOBB03/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLOBB03/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLOBB03/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLOBB03/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": null,
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8291",
+"name": "Tieto výrobky vás očaria...",
+"subline": "... originálnym dizajnom a nízkymi cenami!",
+"description": "Máme radi interiéry prepracované do najmenšieho detailu. Ich tajomstvo? Krásne dekorácie a starostlivo vybrané textílie. Zdá sa, že vďaka nim je aranžovanie dotiahnuté do konca. V tejto kampani nájdete nástenné grafiky, sošky, vázy a vankúše v mnohých štýloch. Určite medzi nimi nájdete skutočný drahokam!",
+"url_key": "kampan-tieto-vyrobky-vas-ocaria",
+"newsletter_urlkey": "c-2063",
+"start_time": "2019-09-30 08:00:00",
+"start_time_formatted": "dnes",
+"end_time": "2019-10-06 23:00:00",
+"end_time_formatted": "ne, 6.10.  ",
+"remaining_days_formatted": "Kampaň sa končí o 6 d.",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLTHES6/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLTHES6/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLTHES6/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLTHES6/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLTHES6/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": null,
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8293",
+"name": "BBBYO",
+"subline": "Jedinečné fľaše, dózy a obaly austrálskej značky ",
+"description": "„Nikdy nie je neskoro zmeniť svet” – to je motto austrálskej značky, ktorá vytvára dizajnérske fľaše, dózy a obaly. Ich výrobky vznikajú použitím upcycling metódy alebo z ekologicky šetrných materiálov. Ekológia a vysoká kvalita idú ruka v ruke – BBBYO je značka, ktorá sa nezameriava iba na predaj, ale aj na zvyšovanie povedomia spotrebiteľov.",
+"url_key": "kampania-bbbyo1",
+"newsletter_urlkey": "c-2065",
+"start_time": "2019-09-30 08:00:00",
+"start_time_formatted": "dnes",
+"end_time": "2019-10-03 23:00:00",
+"end_time_formatted": "št, 3.10.  ",
+"remaining_days_formatted": "Kampaň sa končí o 3 d.",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBBBY1/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBBBY1/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBBBY1/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBBBY1/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBBBY1/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": null,
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8211",
+"name": "Skrinky a regály",
+"subline": "Viac ako 110 modelov už od 9,50 €",
+"description": "Druhý deň SAMPLE SALE! Dnes na vás čaká až 20 nových kampaní, ktoré sú plné jedinečných produktov v limitovaných kolekciách. Všetky sú k dispozícii za mimoriadne ceny so zľavou až -85 %. Nájdite si svoj drahokam. Nákupné šialenstvo pokračuje!",
+"url_key": "kampan-skrinky-regaly4",
+"newsletter_urlkey": "c-2013",
+"start_time": "2019-09-29 10:00:00",
+"start_time_formatted": "Včera",
+"end_time": "2019-10-01 23:00:00",
+"end_time_formatted": "zajtra, 23:00",
+"remaining_days_formatted": "zajtra",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3344/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3344/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3344/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3344/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3344/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8214",
+"name": "Taburetky a lavice",
+"subline": "Viac ako 210 modelov už od 17,90 €",
+"description": "Druhý deň SAMPLE SALE! Dnes na vás čaká až 20 nových kampaní, ktoré sú plné jedinečných produktov v limitovaných kolekciách. Všetky sú k dispozícii za mimoriadne ceny so zľavou až -85 %. Nájdite si svoj drahokam. Nákupné šialenstvo pokračuje!",
+"url_key": "kampan-taburetky-lavice2",
+"newsletter_urlkey": "c-2016",
+"start_time": "2019-09-29 10:00:00",
+"start_time_formatted": "Včera",
+"end_time": "2019-10-01 23:00:00",
+"end_time_formatted": "zajtra, 23:00",
+"remaining_days_formatted": "zajtra",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3341/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3341/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3341/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3341/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3341/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8213",
+"name": "Stolčeky a barové stoličky",
+"subline": "Viac ako 60 modelov už od 11,50 €",
+"description": "Druhý deň SAMPLE SALE! Dnes na vás čaká až 20 nových kampaní, ktoré sú plné jedinečných produktov v limitovaných kolekciách. Všetky sú k dispozícii za mimoriadne ceny so zľavou až -85 %. Nájdite si svoj drahokam. Nákupné šialenstvo pokračuje!",
+"url_key": "kampan-stolceky-barove-stolicky",
+"newsletter_urlkey": "c-2015",
+"start_time": "2019-09-29 10:00:00",
+"start_time_formatted": "Včera",
+"end_time": "2019-10-01 23:00:00",
+"end_time_formatted": "zajtra, 23:00",
+"remaining_days_formatted": "zajtra",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3342/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3342/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3342/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3342/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3342/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8206",
+"name": "Stoličky",
+"subline": "Viac ako 270 modelov už od 24,50 €",
+"description": "Druhý deň SAMPLE SALE! Dnes na vás čaká až 20 nových kampaní, ktoré sú plné jedinečných produktov v limitovaných kolekciách. Všetky sú k dispozícii za mimoriadne ceny so zľavou až -85 %. Nájdite si svoj drahokam. Nákupné šialenstvo pokračuje!",
+"url_key": "kampan-stolicky99",
+"newsletter_urlkey": "c-200e",
+"start_time": "2019-09-29 10:00:00",
+"start_time_formatted": "Včera",
+"end_time": "2019-10-01 23:00:00",
+"end_time_formatted": "zajtra, 23:00",
+"remaining_days_formatted": "zajtra",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3349/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3349/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3349/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3349/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3349/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8207",
+"name": "Postele a matrace",
+"subline": "Viac ako 60 modelov už od 19,90 €",
+"description": "Druhý deň SAMPLE SALE! Dnes na vás čaká až 20 nových kampaní, ktoré sú plné jedinečných produktov v limitovaných kolekciách. Všetky sú k dispozícii za mimoriadne ceny so zľavou až -85 %. Nájdite si svoj drahokam. Nákupné šialenstvo pokračuje!",
+"url_key": "kampan-postele-matrace",
+"newsletter_urlkey": "c-200f",
+"start_time": "2019-09-29 10:00:00",
+"start_time_formatted": "Včera",
+"end_time": "2019-10-01 23:00:00",
+"end_time_formatted": "zajtra, 23:00",
+"remaining_days_formatted": "zajtra",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3348/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3348/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3348/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3348/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3348/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8209",
+"name": "Textílie",
+"subline": "Viac ako 270 modelov už od 6,90 €",
+"description": "Druhý deň SAMPLE SALE! Dnes na vás čaká až 20 nových kampaní, ktoré sú plné jedinečných produktov v limitovaných kolekciách. Všetky sú k dispozícii za mimoriadne ceny so zľavou až -85 %. Nájdite si svoj drahokam. Nákupné šialenstvo pokračuje!",
+"url_key": "kampan-textilie2022",
+"newsletter_urlkey": "c-2011",
+"start_time": "2019-09-29 10:00:00",
+"start_time_formatted": "Včera",
+"end_time": "2019-10-01 23:00:00",
+"end_time_formatted": "zajtra, 23:00",
+"remaining_days_formatted": "zajtra",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3346/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3346/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3346/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3346/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3346/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8223",
+"name": "Hladké koberce",
+"subline": "Viac ako 100 modelov už od 8,50 €",
+"description": "Druhý deň SAMPLE SALE! Dnes na vás čaká až 20 nových kampaní, ktoré sú plné jedinečných produktov v limitovaných kolekciách. Všetky sú k dispozícii za mimoriadne ceny so zľavou až -85 %. Nájdite si svoj drahokam. Nákupné šialenstvo pokračuje!",
+"url_key": "kampan-hladke-koberce",
+"newsletter_urlkey": "c-201f",
+"start_time": "2019-09-29 10:00:00",
+"start_time_formatted": "Včera",
+"end_time": "2019-10-01 23:00:00",
+"end_time_formatted": "zajtra, 23:00",
+"remaining_days_formatted": "zajtra",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3364/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3364/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3364/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3364/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3364/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8219",
+"name": "Stropné svietidlá",
+"subline": "Viac ako 300 modelov už od 12,50 €",
+"description": "Druhý deň SAMPLE SALE! Dnes na vás čaká až 20 nových kampaní, ktoré sú plné jedinečných produktov v limitovaných kolekciách. Všetky sú k dispozícii za mimoriadne ceny so zľavou až -85 %. Nájdite si svoj drahokam. Nákupné šialenstvo pokračuje!",
+"url_key": "kampan-stropne-svietidla4",
+"newsletter_urlkey": "c-201b",
+"start_time": "2019-09-29 10:00:00",
+"start_time_formatted": "Včera",
+"end_time": "2019-10-01 23:00:00",
+"end_time_formatted": "zajtra, 23:00",
+"remaining_days_formatted": "zajtra",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3368/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3368/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3368/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3368/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3368/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8225",
+"name": "Kúpeľňové doplnky",
+"subline": "Viac ako 260 modelov už od 5,90 €",
+"description": "Druhý deň SAMPLE SALE! Dnes na vás čaká až 20 nových kampaní, ktoré sú plné jedinečných produktov v limitovaných kolekciách. Všetky sú k dispozícii za mimoriadne ceny so zľavou až -85 %. Nájdite si svoj drahokam. Nákupné šialenstvo pokračuje!",
+"url_key": "kampan-kupenove-doplnky5",
+"newsletter_urlkey": "c-2021",
+"start_time": "2019-09-29 10:00:00",
+"start_time_formatted": "Včera",
+"end_time": "2019-10-01 23:00:00",
+"end_time_formatted": "zajtra, 23:00",
+"remaining_days_formatted": "zajtra",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3362/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3362/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3362/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3362/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3362/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8227",
+"name": "Koše, škatule, vešiaky",
+"subline": "Viac ako 340 modelov už od 4,90 €",
+"description": "Druhý deň SAMPLE SALE! Dnes na vás čaká až 20 nových kampaní, ktoré sú plné jedinečných produktov v limitovaných kolekciách. Všetky sú k dispozícii za mimoriadne ceny so zľavou až -85 %. Nájdite si svoj drahokam. Nákupné šialenstvo pokračuje!",
+"url_key": "kampan-kose-skatule-vesiaky",
+"newsletter_urlkey": "c-2023",
+"start_time": "2019-09-29 10:00:00",
+"start_time_formatted": "Včera",
+"end_time": "2019-10-01 23:00:00",
+"end_time_formatted": "zajtra, 23:00",
+"remaining_days_formatted": "zajtra",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3360/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3360/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3360/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3360/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3360/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8226",
+"name": "Klasické kuchynské doplnky",
+"subline": "Viac ako 300 modelov už od 6,50 €",
+"description": "Druhý deň SAMPLE SALE! Dnes na vás čaká až 20 nových kampaní, ktoré sú plné jedinečných produktov v limitovaných kolekciách. Všetky sú k dispozícii za mimoriadne ceny so zľavou až -85 %. Nájdite si svoj drahokam. Nákupné šialenstvo pokračuje!",
+"url_key": "kampan-klasicke-kuchynske-doplnky",
+"newsletter_urlkey": "c-2022",
+"start_time": "2019-09-29 10:00:00",
+"start_time_formatted": "Včera",
+"end_time": "2019-10-01 23:00:00",
+"end_time_formatted": "zajtra, 23:00",
+"remaining_days_formatted": "zajtra",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3361/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3361/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3361/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3361/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3361/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8222",
+"name": "Farebný riad",
+"subline": "Viac ako 430 modelov už od 5,90 €",
+"description": "Druhý deň SAMPLE SALE! Dnes na vás čaká až 20 nových kampaní, ktoré sú plné jedinečných produktov v limitovaných kolekciách. Všetky sú k dispozícii za mimoriadne ceny so zľavou až -85 %. Nájdite si svoj drahokam. Nákupné šialenstvo pokračuje!",
+"url_key": "kampan-farebny-riad4",
+"newsletter_urlkey": "c-201e",
+"start_time": "2019-09-29 10:00:00",
+"start_time_formatted": "Včera",
+"end_time": "2019-10-01 23:00:00",
+"end_time_formatted": "zajtra, 23:00",
+"remaining_days_formatted": "zajtra",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3365/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3365/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3365/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3365/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3365/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8224",
+"name": "Dekorácie v štýle glam",
+"subline": "Viac ako 320 modelov už od 5,90 €",
+"description": "Druhý deň SAMPLE SALE! Dnes na vás čaká až 20 nových kampaní, ktoré sú plné jedinečných produktov v limitovaných kolekciách. Všetky sú k dispozícii za mimoriadne ceny so zľavou až -85 %. Nájdite si svoj drahokam. Nákupné šialenstvo pokračuje!",
+"url_key": "kampan-dekoracie-v-style-glam",
+"newsletter_urlkey": "c-2020",
+"start_time": "2019-09-29 10:00:00",
+"start_time_formatted": "Včera",
+"end_time": "2019-10-01 23:00:00",
+"end_time_formatted": "zajtra, 23:00",
+"remaining_days_formatted": "zajtra",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3363/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3363/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3363/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3363/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3363/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8218",
+"name": "Obrazy a grafiky",
+"subline": "Viac ako 300 modelov už od 8,90 €",
+"description": "Druhý deň SAMPLE SALE! Dnes na vás čaká až 20 nových kampaní, ktoré sú plné jedinečných produktov v limitovaných kolekciách. Všetky sú k dispozícii za mimoriadne ceny so zľavou až -85 %. Nájdite si svoj drahokam. Nákupné šialenstvo pokračuje!",
+"url_key": "kampan-obrazy-grafiky3",
+"newsletter_urlkey": "c-201a",
+"start_time": "2019-09-29 10:00:00",
+"start_time_formatted": "Včera",
+"end_time": "2019-10-01 23:00:00",
+"end_time_formatted": "zajtra, 23:00",
+"remaining_days_formatted": "zajtra",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3369/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3369/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3369/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3369/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3369/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8221",
+"name": "Hrnčeky a šálky",
+"subline": "Viac ako 110 modelov už od 4,50 €",
+"description": "Druhý deň SAMPLE SALE! Dnes na vás čaká až 20 nových kampaní, ktoré sú plné jedinečných produktov v limitovaných kolekciách. Všetky sú k dispozícii za mimoriadne ceny so zľavou až -85 %. Nájdite si svoj drahokam. Nákupné šialenstvo pokračuje!",
+"url_key": "kampan-hrnceky-salky",
+"newsletter_urlkey": "c-201d",
+"start_time": "2019-09-29 10:00:00",
+"start_time_formatted": "Včera",
+"end_time": "2019-10-01 23:00:00",
+"end_time_formatted": "zajtra, 23:00",
+"remaining_days_formatted": "zajtra",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3366/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3366/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3366/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3366/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3366/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8210",
+"name": "Tácky",
+"subline": "Viac ako 120 modelov už od 8,50 €",
+"description": "Druhý deň SAMPLE SALE! Dnes na vás čaká až 20 nových kampaní, ktoré sú plné jedinečných produktov v limitovaných kolekciách. Všetky sú k dispozícii za mimoriadne ceny so zľavou až -85 %. Nájdite si svoj drahokam. Nákupné šialenstvo pokračuje!",
+"url_key": "kampan-tacky",
+"newsletter_urlkey": "c-2012",
+"start_time": "2019-09-29 10:00:00",
+"start_time_formatted": "Včera",
+"end_time": "2019-10-01 23:00:00",
+"end_time_formatted": "zajtra, 23:00",
+"remaining_days_formatted": "zajtra",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3345/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3345/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3345/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3345/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3345/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8212",
+"name": "Sviečky a aróma-difuzéry",
+"subline": "Viac ako 130 modelov už od 5,90 €",
+"description": "Druhý deň SAMPLE SALE! Dnes na vás čaká až 20 nových kampaní, ktoré sú plné jedinečných produktov v limitovaných kolekciách. Všetky sú k dispozícii za mimoriadne ceny so zľavou až -85 %. Nájdite si svoj drahokam. Nákupné šialenstvo pokračuje!",
+"url_key": "kampan-sviecky-aroma-difuzery",
+"newsletter_urlkey": "c-2014",
+"start_time": "2019-09-29 10:00:00",
+"start_time_formatted": "Včera",
+"end_time": "2019-10-01 23:00:00",
+"end_time_formatted": "zajtra, 23:00",
+"remaining_days_formatted": "zajtra",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3343/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3343/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3343/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3343/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3343/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8215",
+"name": "Vzorované vankúše",
+"subline": "Viac ako 370 modelov už od 7,90 €",
+"description": "Druhý deň SAMPLE SALE! Dnes na vás čaká až 20 nových kampaní, ktoré sú plné jedinečných produktov v limitovaných kolekciách. Všetky sú k dispozícii za mimoriadne ceny so zľavou až -85 %. Nájdite si svoj drahokam. Nákupné šialenstvo pokračuje!",
+"url_key": "kampan-vzorovane-vankuse5",
+"newsletter_urlkey": "c-2017",
+"start_time": "2019-09-29 10:00:00",
+"start_time_formatted": "Včera",
+"end_time": "2019-10-01 23:00:00",
+"end_time_formatted": "zajtra, 23:00",
+"remaining_days_formatted": "zajtra",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3340/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3340/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3340/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3340/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3340/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8220",
+"name": "Kvetináče a umelé rastliny",
+"subline": "Viac ako 340 modelov už od 5,90 €",
+"description": "Druhý deň SAMPLE SALE! Dnes na vás čaká až 20 nových kampaní, ktoré sú plné jedinečných produktov v limitovaných kolekciách. Všetky sú k dispozícii za mimoriadne ceny so zľavou až -85 %. Nájdite si svoj drahokam. Nákupné šialenstvo pokračuje!",
+"url_key": "kampan-kvetinace-umele-rastliny",
+"newsletter_urlkey": "c-201c",
+"start_time": "2019-09-29 10:00:00",
+"start_time_formatted": "Včera",
+"end_time": "2019-10-01 23:00:00",
+"end_time_formatted": "zajtra, 23:00",
+"remaining_days_formatted": "zajtra",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3367/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3367/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3367/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3367/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3367/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8208",
+"name": "Záhradný nábytok a doplnky",
+"subline": "Viac ako 130 modelov už od 7,50 €",
+"description": "Druhý deň SAMPLE SALE! Dnes na vás čaká až 20 nových kampaní, ktoré sú plné jedinečných produktov v limitovaných kolekciách. Všetky sú k dispozícii za mimoriadne ceny so zľavou až -85 %. Nájdite si svoj drahokam. Nákupné šialenstvo pokračuje!",
+"url_key": "kampan-zahradny-nabytok-doplnky6",
+"newsletter_urlkey": "c-2010",
+"start_time": "2019-09-29 10:00:00",
+"start_time_formatted": "Včera",
+"end_time": "2019-10-01 23:00:00",
+"end_time_formatted": "zajtra, 23:00",
+"remaining_days_formatted": "zajtra",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3347/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3347/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3347/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3347/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3347/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8240",
+"name": "Štýlový toaletný stolík",
+"subline": "Dámsky nábytok, dekorácie a doplnky",
+"description": "Jeseň je ideálny čas na metamorfózu spálne! Dnes vám povieme, ako ju urobiť krok po kroku. V tejto kampani sa dozviete, ako štýlovo naaranžovať priestor okolo toaletného stolíka. Vyberte si zo šperkov, dekorácií, organizérov, sedacieho nábytku a vytvorte útulný a praktický interiér. Všetko v štýle Glamour!",
+"url_key": "kampan-stylovy-toaletny-stolik2",
+"newsletter_urlkey": "c-2030",
+"start_time": "2019-09-27 08:00:00",
+"start_time_formatted": "27.9.",
+"end_time": "2019-10-03 23:00:00",
+"end_time_formatted": "št, 3.10.  ",
+"remaining_days_formatted": "Kampaň sa končí o 3 d.",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLMAKE53/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLMAKE53/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLMAKE53/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLMAKE53/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLMAKE53/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": null,
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8244",
+"name": "Vyberte si ideálnu posteľ!",
+"subline": "Objavte všetky výhody 4 typov, ktoré sme pre vás vybrali!",
+"description": "Jeseň je ideálny čas na metamorfózu spálne! Dnes vám povieme, ako ju urobiť krok po kroku. V tejto kampani predstavujeme základné aranžmány: postele a matrace. Pripravili sme 4 typy postelí: kontinentálne, s úložným priestorom na posteľnú bielizeň, v japonskom štýle a kovové. Chceme vám ukázať výhody každej z nich! Vyberte si pre vás dokonalý model a z vašej spálne vytvorte skutočnú oázu relaxácie. Sladké jesenné sny!",
+"url_key": "kampan-vyberte-si-idealnu-poste",
+"newsletter_urlkey": "c-2034",
+"start_time": "2019-09-27 08:00:00",
+"start_time_formatted": "27.9.",
+"end_time": "2019-10-06 23:00:00",
+"end_time_formatted": "ne, 6.10.  ",
+"remaining_days_formatted": "Kampaň sa končí o 6 d.",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBEDR7/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBEDR7/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBEDR7/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBEDR7/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBEDR7/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": null,
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8234",
+"name": "Goth Glam",
+"subline": "Extravagantná kampaň pre tých, ktorí hľadajú skutočnú krásu",
+"description": "Minulosť je dokonalosť a tajomstvo. Modernosť je sloboda a luxus. Kombinácia oboch vytvára interiér, ktorý zaujme a poteší. Hovoríme o interiéri udržiavanom v tom najúžasnejšom zo všetkých štýlov - Glam Goth! Je plný sofistikovanej extravagancie, tajomnej prirodzenosti a zvedavosti, ktoré môžu potešiť skutočných znalcov krásy. Zoznámte sa s najmodernejším a najzaujímavejším aranžovaním tejto sezóny!",
+"url_key": "kampania-goth-glam",
+"newsletter_urlkey": "c-202a",
+"start_time": "2019-09-26 08:00:00",
+"start_time_formatted": "26.9.",
+"end_time": "2019-10-02 23:00:00",
+"end_time_formatted": "st, 2.10.  ",
+"remaining_days_formatted": "Kampaň sa končí o 2 d.",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLGOTH2/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLGOTH2/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLGOTH2/original_43",
+"width": 640,
+"height": 480
+},
+"editorial_banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_l/v1569837167/club/sk/campaign/PLGOTH2/campaign_l",
+"width": 912,
+"height": 1000
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLGOTH2/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLGOTH2/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": null,
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8236",
+"name": "O krok bližšie k prírode",
+"subline": "Kolekcia nábytku a doplnkov z prírodných materiálov a farbách",
+"description": "Nemusíte vyjsť z domu kvôli tomu, aby ste boli bližšie k prírode, najmä keď počasie nie je priaznivé. Obklopte sa prírodnými materiálmi, kvetinovými motívmi a paletou zemitých farieb kombinovanými so zeleňou a vytvorte si interiér, v ktorom sa môžete zrelaxovať tak, ako v prírode. Pozrite si našu kampaň a vneste prírodu do vášho aranžovania.",
+"url_key": "kampan-o-krok-blizsie-k-prirode",
+"newsletter_urlkey": "c-202c",
+"start_time": "2019-09-26 08:00:00",
+"start_time_formatted": "26.9.",
+"end_time": "2019-10-02 23:00:00",
+"end_time_formatted": "st, 2.10.  ",
+"remaining_days_formatted": "Kampaň sa končí o 2 d.",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLHAVE2/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLHAVE2/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLHAVE2/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLHAVE2/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLHAVE2/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": null,
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8180",
+"name": "Top Pantone Color Wall Gallery",
+"subline": "Obrazy a fotografie, ktoré ozdobia váš interiér na jeseň",
+"description": "Každú sezónu vyhlasuje inštitút Pantone tie najmódnejšie farby daného obdobia. Na jeseň/zima 2019 sú nimi Vanilla Custard, Evening Blue, Peach Pink, Eden, Paloma a Sugar Almond. Náš tip na tú najrýchlejšiu a najmódnejšiu premenu aranžovania do týchto farieb? Samozrejme nástenné dekorácie! Vyberte sady grafík alebo jednotlivé obrazy v tých najkrajších odtieňoch a pridajte do vášho príbytku dávku farebnosti už dnes!",
+"url_key": "kampan-top-pantone-color-wall-gallery",
+"newsletter_urlkey": "c-1ff4",
+"start_time": "2019-09-25 08:00:00",
+"start_time_formatted": "25.9.",
+"end_time": "2019-10-01 23:00:00",
+"end_time_formatted": "zajtra, 23:00",
+"remaining_days_formatted": "zajtra",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLAUTU8/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLAUTU8/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLAUTU8/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLAUTU8/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLAUTU8/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": null,
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8243",
+"name": "Daniel Hechter Home",
+"subline": "Pohovky, kreslá a taburetky vytvorené známym módnym návrhárom",
+"description": "Daniel Hechter je francúzsky návrhár, ktorý v roku 1962 otvoril svoj prvý módny dom v Paríži. Dodnes tvorí a navrhuje. Jeho výtvory odrážajú čaro a zmyselnosť európskej módy, spájajúc eleganciu a pohodlnosť. Rovnaké vlastnosti má aj nábytok podpísaný menom návrhára. Pohovky, kreslá a taburetky sú nielen pohodlné, ale aj vkusné!",
+"url_key": "kampania-daniel-hechter-home",
+"newsletter_urlkey": "c-2033",
+"start_time": "2019-09-25 08:00:00",
+"start_time_formatted": "25.9.",
+"end_time": "2019-10-01 23:00:00",
+"end_time_formatted": "zajtra, 23:00",
+"remaining_days_formatted": "zajtra",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLDANI3/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLDANI3/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLDANI3/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLDANI3/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLDANI3/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": null,
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8176",
+"name": "Table Look: Autumn Gold",
+"subline": "Nech sa na vašom stole objaví zlatá jeseň!",
+"description": "Jeseň je tu! Pozvali sme ju tiež do jedálne a pripravili príjemné a atmosférické aranžovanie stolov. Elegantné zlato sa preplieta s jesennými motívmi. Vďaka tejto kombinácii získa každé jedlo nový charakter! V tejto kampani sme pre vás pripravili špeciálne sady, ktoré vám umožnia uviesť jesennú atmosféru do vašej jedálne. Určite tu nájdete niečo, čo úplne zmení váš stôl!",
+"url_key": "kampania-table-look-autumn-gold",
+"newsletter_urlkey": "c-1ff0",
+"start_time": "2019-09-25 08:00:00",
+"start_time_formatted": "25.9.",
+"end_time": "2019-10-01 23:00:00",
+"end_time_formatted": "zajtra, 23:00",
+"remaining_days_formatted": "zajtra",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLTABL7/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLTABL7/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLTABL7/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLTABL7/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLTABL7/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": null,
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8190",
+"name": "Pohovky",
+"subline": "Viac ako 60 modelov už od 199,90 €",
+"description": "Začína SAMPLE SALE – veľký výpredaj vzoriek! Pripravili sme pre vás 20 kampaní so zľavou až -85 %. Nájdete tu jedinečné výrobky z fotografovania, ukážkové kusy a posledné modely z najnovších radov kolekcií. Sú to perličky dostupné v posledných kusoch, preto neváhajte a nechajte sa uniesť nákupnou horúčkou už teraz!",
+"url_key": "kampan-pohovky758",
+"newsletter_urlkey": "c-1ffe",
+"start_time": "2019-09-28 10:00:00",
+"start_time_formatted": "28.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3333/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3333/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3333/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3333/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3333/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8201",
+"name": "Kreslá",
+"subline": "Viac ako 130 modelov už od 38,90 €",
+"description": "Začína SAMPLE SALE – veľký výpredaj vzoriek! Pripravili sme pre vás 20 kampaní so zľavou až -85 %. Nájdete tu jedinečné výrobky z fotografovania, ukážkové kusy a posledné modely z najnovších radov kolekcií. Sú to perličky dostupné v posledných kusoch, preto neváhajte a nechajte sa uniesť nákupnou horúčkou už teraz!",
+"url_key": "kampan-kresla77",
+"newsletter_urlkey": "c-2009",
+"start_time": "2019-09-28 10:00:00",
+"start_time_formatted": "28.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3354/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3354/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3354/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3354/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3354/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8197",
+"name": "Komody a stolíky",
+"subline": "Viac ako 110 modelov už od 25,90 €",
+"description": "Začína SAMPLE SALE – veľký výpredaj vzoriek! Pripravili sme pre vás 20 kampaní so zľavou až -85 %. Nájdete tu jedinečné výrobky z fotografovania, ukážkové kusy a posledné modely z najnovších radov kolekcií. Sú to perličky dostupné v posledných kusoch, preto neváhajte a nechajte sa uniesť nákupnou horúčkou už teraz!",
+"url_key": "kampan-komody-stoliky",
+"newsletter_urlkey": "c-2005",
+"start_time": "2019-09-28 10:00:00",
+"start_time_formatted": "28.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3358/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3358/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3358/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3358/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3358/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8202",
+"name": "Vzorované koberce",
+"subline": "Viac ako 340 modelov už od 16,50 €",
+"description": "Začína SAMPLE SALE – veľký výpredaj vzoriek! Pripravili sme pre vás 20 kampaní so zľavou až -85 %. Nájdete tu jedinečné výrobky z fotografovania, ukážkové kusy a posledné modely z najnovších radov kolekcií. Sú to perličky dostupné v posledných kusoch, preto neváhajte a nechajte sa uniesť nákupnou horúčkou už teraz!",
+"url_key": "kampan-vzorovane-koberce1",
+"newsletter_urlkey": "c-200a",
+"start_time": "2019-09-28 10:00:00",
+"start_time_formatted": "28.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3353/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3353/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3353/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3353/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3353/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8184",
+"name": "Kancelárske doplnky",
+"subline": "Viac ako 240 modelov už od 6,90 €",
+"description": "Začína SAMPLE SALE – veľký výpredaj vzoriek! Pripravili sme pre vás 20 kampaní so zľavou až -85 %. Nájdete tu jedinečné výrobky z fotografovania, ukážkové kusy a posledné modely z najnovších radov kolekcií. Sú to perličky dostupné v posledných kusoch, preto neváhajte a nechajte sa uniesť nákupnou horúčkou už teraz!",
+"url_key": "kampan-kancelarske-doplnky",
+"newsletter_urlkey": "c-1ff8",
+"start_time": "2019-09-28 10:00:00",
+"start_time_formatted": "28.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3339/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3339/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3339/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3339/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3339/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8189",
+"name": "Stoly a stolíky",
+"subline": "Viac ako 240 modelov už od 25,90 €",
+"description": "Začína SAMPLE SALE – veľký výpredaj vzoriek! Pripravili sme pre vás 20 kampaní so zľavou až -85 %. Nájdete tu jedinečné výrobky z fotografovania, ukážkové kusy a posledné modely z najnovších radov kolekcií. Sú to perličky dostupné v posledných kusoch, preto neváhajte a nechajte sa uniesť nákupnou horúčkou už teraz!",
+"url_key": "kampan-stoly-stoliky18",
+"newsletter_urlkey": "c-1ffd",
+"start_time": "2019-09-28 10:00:00",
+"start_time_formatted": "28.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3334/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3334/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3334/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3334/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3334/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8193",
+"name": "Zrkadlá",
+"subline": "Viac ako 220 modelov už od 6,50 €",
+"description": "Začína SAMPLE SALE – veľký výpredaj vzoriek! Pripravili sme pre vás 20 kampaní so zľavou až -85 %. Nájdete tu jedinečné výrobky z fotografovania, ukážkové kusy a posledné modely z najnovších radov kolekcií. Sú to perličky dostupné v posledných kusoch, preto neváhajte a nechajte sa uniesť nákupnou horúčkou už teraz!",
+"url_key": "kampan-zrkadla12",
+"newsletter_urlkey": "c-2001",
+"start_time": "2019-09-28 10:00:00",
+"start_time_formatted": "28.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3330/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3330/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3330/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3330/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3330/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8198",
+"name": "Módne doplnky",
+"subline": "Viac ako 290 modelov už od 8,50 €",
+"description": "Začína SAMPLE SALE – veľký výpredaj vzoriek! Pripravili sme pre vás 20 kampaní so zľavou až -85 %. Nájdete tu jedinečné výrobky z fotografovania, ukážkové kusy a posledné modely z najnovších radov kolekcií. Sú to perličky dostupné v posledných kusoch, preto neváhajte a nechajte sa uniesť nákupnou horúčkou už teraz!",
+"url_key": "kampan-modne-doplnky6",
+"newsletter_urlkey": "c-2006",
+"start_time": "2019-09-28 10:00:00",
+"start_time_formatted": "28.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3357/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3357/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3357/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3357/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3357/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8200",
+"name": "Nástenné osvetlenie",
+"subline": "Viac ako 130 modelov už od 9,90 €",
+"description": "Začína SAMPLE SALE – veľký výpredaj vzoriek! Pripravili sme pre vás 20 kampaní so zľavou až -85 %. Nájdete tu jedinečné výrobky z fotografovania, ukážkové kusy a posledné modely z najnovších radov kolekcií. Sú to perličky dostupné v posledných kusoch, preto neváhajte a nechajte sa uniesť nákupnou horúčkou už teraz!",
+"url_key": "kampan-nastenne-osvetlenie2",
+"newsletter_urlkey": "c-2008",
+"start_time": "2019-09-28 10:00:00",
+"start_time_formatted": "28.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3355/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3355/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3355/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3355/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3355/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8196",
+"name": "Stojacie lampy",
+"subline": "Viac ako 250 modelov už od 5,50 €",
+"description": "Začína SAMPLE SALE – veľký výpredaj vzoriek! Pripravili sme pre vás 20 kampaní so zľavou až -85 %. Nájdete tu jedinečné výrobky z fotografovania, ukážkové kusy a posledné modely z najnovších radov kolekcií. Sú to perličky dostupné v posledných kusoch, preto neváhajte a nechajte sa uniesť nákupnou horúčkou už teraz!",
+"url_key": "kampan-stojacie-lampy4",
+"newsletter_urlkey": "c-2004",
+"start_time": "2019-09-28 10:00:00",
+"start_time_formatted": "28.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3359/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3359/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3359/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3359/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3359/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8199",
+"name": "Klasický riad",
+"subline": "Viac ako 260 modelov už od 5,50 €",
+"description": "Začína SAMPLE SALE – veľký výpredaj vzoriek! Pripravili sme pre vás 20 kampaní so zľavou až -85 %. Nájdete tu jedinečné výrobky z fotografovania, ukážkové kusy a posledné modely z najnovších radov kolekcií. Sú to perličky dostupné v posledných kusoch, preto neváhajte a nechajte sa uniesť nákupnou horúčkou už teraz!",
+"url_key": "kampan-klasicky-riad4",
+"newsletter_urlkey": "c-2007",
+"start_time": "2019-09-28 10:00:00",
+"start_time_formatted": "28.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3356/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3356/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3356/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3356/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3356/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8186",
+"name": "Príbory",
+"subline": "Viac ako 110 modelov už od 6,90 €",
+"description": "Začína SAMPLE SALE – veľký výpredaj vzoriek! Pripravili sme pre vás 20 kampaní so zľavou až -85 %. Nájdete tu jedinečné výrobky z fotografovania, ukážkové kusy a posledné modely z najnovších radov kolekcií. Sú to perličky dostupné v posledných kusoch, preto neváhajte a nechajte sa uniesť nákupnou horúčkou už teraz!",
+"url_key": "kampan-pribory",
+"newsletter_urlkey": "c-1ffa",
+"start_time": "2019-09-28 10:00:00",
+"start_time_formatted": "28.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3337/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3337/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3337/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3337/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3337/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8205",
+"name": "Farebné kuchynské doplnky",
+"subline": "Viac ako 340 modelov už od 4,50 €",
+"description": "Začína SAMPLE SALE – veľký výpredaj vzoriek! Pripravili sme pre vás 20 kampaní so zľavou až -85 %. Nájdete tu jedinečné výrobky z fotografovania, ukážkové kusy a posledné modely z najnovších radov kolekcií. Sú to perličky dostupné v posledných kusoch, preto neváhajte a nechajte sa uniesť nákupnou horúčkou už teraz!",
+"url_key": "kampan-farebne-kuchynske-doplnky",
+"newsletter_urlkey": "c-200d",
+"start_time": "2019-09-28 10:00:00",
+"start_time_formatted": "28.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3350/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3350/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3350/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3350/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3350/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8188",
+"name": "Svietniky",
+"subline": "Viac ako 480 modelov už od 5,90 €",
+"description": "Začína SAMPLE SALE – veľký výpredaj vzoriek! Pripravili sme pre vás 20 kampaní so zľavou až -85 %. Nájdete tu jedinečné výrobky z fotografovania, ukážkové kusy a posledné modely z najnovších radov kolekcií. Sú to perličky dostupné v posledných kusoch, preto neváhajte a nechajte sa uniesť nákupnou horúčkou už teraz!",
+"url_key": "kampan-svietniky71",
+"newsletter_urlkey": "c-1ffc",
+"start_time": "2019-09-28 10:00:00",
+"start_time_formatted": "28.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3335/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3335/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3335/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3335/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3335/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8191",
+"name": "Posteľná bielizeň",
+"subline": "Viac ako 270 modelov už od 13,90 €",
+"description": "Začína SAMPLE SALE – veľký výpredaj vzoriek! Pripravili sme pre vás 20 kampaní so zľavou až -85 %. Nájdete tu jedinečné výrobky z fotografovania, ukážkové kusy a posledné modely z najnovších radov kolekcií. Sú to perličky dostupné v posledných kusoch, preto neváhajte a nechajte sa uniesť nákupnou horúčkou už teraz!",
+"url_key": "kampan-postena-bielizen2024",
+"newsletter_urlkey": "c-1fff",
+"start_time": "2019-09-28 10:00:00",
+"start_time_formatted": "28.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3332/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3332/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3332/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3332/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3332/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8192",
+"name": "Hladké vankúše",
+"subline": "Viac ako 250 modelov už od 8,90 €",
+"description": "Začína SAMPLE SALE – veľký výpredaj vzoriek! Pripravili sme pre vás 20 kampaní so zľavou až -85 %. Nájdete tu jedinečné výrobky z fotografovania, ukážkové kusy a posledné modely z najnovších radov kolekcií. Sú to perličky dostupné v posledných kusoch, preto neváhajte a nechajte sa uniesť nákupnou horúčkou už teraz!",
+"url_key": "kampan-hladke-vankuse1",
+"newsletter_urlkey": "c-2000",
+"start_time": "2019-09-28 10:00:00",
+"start_time_formatted": "28.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3331/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3331/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3331/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3331/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3331/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8203",
+"name": "Funky dekorácie",
+"subline": "Viac ako 240 modelov už od 6,90 €",
+"description": "Začína SAMPLE SALE – veľký výpredaj vzoriek! Pripravili sme pre vás 20 kampaní so zľavou až -85 %. Nájdete tu jedinečné výrobky z fotografovania, ukážkové kusy a posledné modely z najnovších radov kolekcií. Sú to perličky dostupné v posledných kusoch, preto neváhajte a nechajte sa uniesť nákupnou horúčkou už teraz!",
+"url_key": "kampan-funky-dekoracie",
+"newsletter_urlkey": "c-200b",
+"start_time": "2019-09-28 10:00:00",
+"start_time_formatted": "28.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3352/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3352/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3352/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3352/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3352/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8204",
+"name": "Nástenné dekorácie",
+"subline": "Viac ako 180 modelov už od 6,50 €",
+"description": "Začína SAMPLE SALE – veľký výpredaj vzoriek! Pripravili sme pre vás 20 kampaní so zľavou až -85 %. Nájdete tu jedinečné výrobky z fotografovania, ukážkové kusy a posledné modely z najnovších radov kolekcií. Sú to perličky dostupné v posledných kusoch, preto neváhajte a nechajte sa uniesť nákupnou horúčkou už teraz!",
+"url_key": "kampan-nastenne-dekoracie85",
+"newsletter_urlkey": "c-200c",
+"start_time": "2019-09-28 10:00:00",
+"start_time_formatted": "28.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3351/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3351/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3351/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3351/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3351/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8185",
+"name": "Vázy",
+"subline": "Viac ako 310 modelov už od 7,50 €",
+"description": "Začína SAMPLE SALE – veľký výpredaj vzoriek! Pripravili sme pre vás 20 kampaní so zľavou až -85 %. Nájdete tu jedinečné výrobky z fotografovania, ukážkové kusy a posledné modely z najnovších radov kolekcií. Sú to perličky dostupné v posledných kusoch, preto neváhajte a nechajte sa uniesť nákupnou horúčkou už teraz!",
+"url_key": "kampan-vazy4",
+"newsletter_urlkey": "c-1ff9",
+"start_time": "2019-09-28 10:00:00",
+"start_time_formatted": "28.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3338/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3338/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3338/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3338/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3338/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8187",
+"name": "Poháre",
+"subline": "Viac ako 200 modelov už od 5,50 €",
+"description": "Začína SAMPLE SALE – veľký výpredaj vzoriek! Pripravili sme pre vás 20 kampaní so zľavou až -85 %. Nájdete tu jedinečné výrobky z fotografovania, ukážkové kusy a posledné modely z najnovších radov kolekcií. Sú to perličky dostupné v posledných kusoch, preto neváhajte a nechajte sa uniesť nákupnou horúčkou už teraz!",
+"url_key": "kampan-pohare",
+"newsletter_urlkey": "c-1ffb",
+"start_time": "2019-09-28 10:00:00",
+"start_time_formatted": "28.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3336/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3336/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBLOW3336/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBLOW3336/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBLOW3336/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": {
+"type_id": 1,
+"type": "Highlight delivery",
+"text": "Rýchle odoslanie",
+"style_id": 0,
+"style": "Default",
+"style_color": "62bba5"
+},
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8241",
+"name": "Posteľ odetá do novej bielizne",
+"subline": "Posteľná bielizeň v rôznych štýloch, farbách a rozmeroch",
+"description": "Jeseň je ideálna na metamorfózu spálne! Dnes vám poradíme, ako ju zrealizovať krok za krokom. V tejto kampani nájdete krásne sady posteľnej bielizne a denné deky, vďaka ktorým jednoducho osviežite aranžovanie postele. Zistite, aký model si vybrať, aby ste dodali spálni ten správny charakter a oživili ju farbami.",
+"url_key": "kampan-poste-odeta-do-novej-bielizne",
+"newsletter_urlkey": "c-2031",
+"start_time": "2019-09-27 08:00:00",
+"start_time_formatted": "27.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBEDR6/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBEDR6/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBEDR6/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBEDR6/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBEDR6/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": null,
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8230",
+"name": "Mäkko pod nohami",
+"subline": "Nadýchané koberce v rôznych farbách a rozmeroch",
+"description": "Jeseň je ideálny čas na zmenu spálne! Dnes vám povieme, ako to urobiť krok za krokom. V tejto kampani sa dozviete, ktorý koberec si vybrať, aby ste si zaistili pohodlie pod nohami hneď, ako vstanete z postele. Nájdete tu mimoriadne mäkké a nadýchané koberce v rôznych farbách, ktoré vašej spálni dodajú útulnosť.",
+"url_key": "kampan-maekko-pod-nohami1",
+"newsletter_urlkey": "c-2026",
+"start_time": "2019-09-27 08:00:00",
+"start_time_formatted": "27.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBEDR8/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBEDR8/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBEDR8/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBEDR8/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBEDR8/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": null,
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8242",
+"name": "Obzrite sa v spálni!",
+"subline": "Podlahové, závesné a stolové zrkadlá",
+"description": "Jeseň je ideálny čas na metamorfózu spálne! Dnes vám povieme, ako ju urobiť krok po kroku. V tejto kampani sa dozviete, ktoré zrkadlá sa najviac hodia nad posteľ, vedľa šatníka či komody. Vyberte si modely v štýle Modern, Glamour a Classic a naaranžujte vašu spálňu túto jeseň tak, aby očarila každého!",
+"url_key": "kampan-obzrite-sa-v-spalni",
+"newsletter_urlkey": "c-2032",
+"start_time": "2019-09-27 08:00:00",
+"start_time_formatted": "27.9.",
+"end_time": "2019-09-30 18:00:00",
+"end_time_formatted": "dnes, 18:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBEDR9/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBEDR9/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBEDR9/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBEDR9/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBEDR9/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": null,
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8232",
+"name": "Osvetlenie v dobrom štýle",
+"subline": "Závesné, stojacie a nástenné lampy",
+"description": "Jeseň je ideálny čas na metamorfózu spálne! Dnes vám povieme, ako ju urobiť krok po kroku. V tejto kampani nájdete osvetlenie, ktoré najlepšie doplní aranžovanie okolo postele alebo toaletného stolíka. Pozrite sa, ako vizuálne zväčšiť interiér, vniesť lesk a vytvoriť útulné miesto na odpočinok. A to všetko vďaka závesným, stojacím a nástenným lampám. Nech vaša spálňa zažiari!",
+"url_key": "kampan-osvetlenie-v-dobrom-style",
+"newsletter_urlkey": "c-2028",
+"start_time": "2019-09-27 08:00:00",
+"start_time_formatted": "27.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBEDR5/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBEDR5/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBEDR5/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBEDR5/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBEDR5/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": null,
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8229",
+"name": "Von Fürnsteneck",
+"subline": "Teplé prikrývky a vankúše ideálne na jeseň",
+"description": "Jeseň je ideálna na metamorfózu spálne! Dnes vám poradíme, ako ju zrealizovať krok za krokom. V tejto kampani nájdete vankúše a prikrývky značky Von Fürsteneck vyrobené v Nemecku z peria a páperia získavaného etickým spôsobom. Zaistia vám komfort počas chladných jesenných nocí.",
+"url_key": "kampan-von-fuernsteneck",
+"newsletter_urlkey": "c-2025",
+"start_time": "2019-09-27 08:00:00",
+"start_time_formatted": "27.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLVONF1/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLVONF1/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLVONF1/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLVONF1/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLVONF1/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": null,
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8231",
+"name": "Vhodné prestieradlá ",
+"subline": "Modely s gumou v rôznych veľkostiach",
+"description": "Jeseň je ideálny čas na metamorfózu spálne! Dnes vám povieme, ako ju urobiť krok po kroku. V tejto kampani nájdete najpohodlnejšie prestieradlá. Bavlnené, flanelové a ľanové modely vám poskytnú najlepší komfort. Všetky prestieradlá sú vybavené praktickou gumičkou. Sú k dispozícií v niekoľkých veľkostiach, takže si môžete ľahko vybrať správny model do vašej spálne.",
+"url_key": "kampan-vhodne-prestieradla",
+"newsletter_urlkey": "c-2027",
+"start_time": "2019-09-27 08:00:00",
+"start_time_formatted": "27.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLFITT1/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLFITT1/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLFITT1/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLFITT1/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLFITT1/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": null,
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8233",
+"name": "Autumn Nordic Style",
+"subline": "Takto na jeseň zdobia Škandinávci svoje domovy",
+"description": "Jeseň je pre Škandinávcov najnepriaznivejším obdobím v roku. Dlhšie večery a chladné noci povzbudzujú k tráveniu času so svojimi blízkymi doma pri zapálených sviečkach a pohárom Gloggu. Škandinávci na jeseň menia interiér svojich domovov, aby ešte viac zdôraznili náladu Hygge a cítili sa príjemnejšie. V dnešnej kampani sme pre vás pripravili niekoľko tipov, aby ste sa vy, vaša rodina a priatelia mohli tešiť z jedinečnej atmosféry u vás doma.",
+"url_key": "kampan-autumn-nordic-style",
+"newsletter_urlkey": "c-2029",
+"start_time": "2019-09-26 08:00:00",
+"start_time_formatted": "26.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLTAKN1/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLTAKN1/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLTAKN1/original_43",
+"width": 640,
+"height": 480
+},
+"editorial_banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_l/v1569837167/club/sk/campaign/PLTAKN1/campaign_l",
+"width": 912,
+"height": 1000
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLTAKN1/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLTAKN1/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": null,
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8181",
+"name": "Vaša nová kúpeľňa",
+"subline": "Zariadite ju s nami od A po Z",
+"description": "Snívate o novej kúpeľni? Niekedy stačí skutočne málo, aby ste zmenili celé aranžovanie. V tejto kampani vám ukážeme tipy, ako ľahko a rýchlo zmeniť interiér. Basic alebo elegant? Rozhodnite sa, ktorý štýl vám vyhovuje viac a vyberte si z mäkkých textílií, štýlového nábytku či krásnych zrkadiel a dekorácií. Vďaka nim vás vaša kúpeľňa znova očarí!",
+"url_key": "kampan-vasa-nova-kupena1",
+"newsletter_urlkey": "c-1ff5",
+"start_time": "2019-09-24 08:00:00",
+"start_time_formatted": "24.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBIGB2/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBIGB2/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLBIGB2/original_43",
+"width": 640,
+"height": 480
+},
+"editorial_banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_l/v1569837167/club/sk/campaign/PLBIGB2/campaign_l",
+"width": 912,
+"height": 1000
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLBIGB2/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLBIGB2/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": null,
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+},
+{
+"id_campaign": "8177",
+"name": "Náladový dom od 6,50 €",
+"subline": "Objavte náš návod na romantickú atmosféru v interiéri! ",
+"description": "Zmena dekorácií je najjednoduchším spôsobom, ako rýchlo a efektívne vniesť do interiéru náladový charakter. Štylistky Westwing pre vás vybrali očarujúce textílie, doplnky, nástenné ozdoby a lampy, ktoré vám umožnia vytvoriť romantické aranžovanie priamo z ohromujúceho Provensalska. Do tohto interiéru sa budete chcieť vrátiť vždy na jeseň! Pozrite si kolekciu plnú doplnkov za skvelé ceny!",
+"url_key": "kampan-naladovy-dom-od-650",
+"newsletter_urlkey": "c-1ff1",
+"start_time": "2019-09-24 08:00:00",
+"start_time_formatted": "24.9.",
+"end_time": "2019-09-30 23:00:00",
+"end_time_formatted": "dnes, 23:00",
+"remaining_days_formatted": "dnes",
+"message_line": "",
+"promotion_line": null,
+"badge_url": "",
+"message_line_style": "default",
+"banner_url_original": null,
+"banner_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLDECO24/original_43",
+"navigation_url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLDECO24/s_43",
+"images": {
+"banner": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_small_43/v1569837167/club/sk/campaign/PLDECO24/original_43",
+"width": 640,
+"height": 480
+},
+"banner_thumbnail": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_thumbnail_43/v1569837167/club/sk/campaign/PLDECO24/original_43",
+"width": 44,
+"height": 33
+},
+"navigation": {
+"url": "https://cdn-ww.westwing.com/image/upload/f_webp,fl_awebp,t_default.campaign_mini_square_43/v1569837167/club/sk/campaign/PLDECO24/s_43",
+"width": 292,
+"height": 219
+}
+},
+"videos": [],
+"themeday": null,
+"message_line_object": null,
+"delivery_guarantee_information": null,
+"vimeo_video": null,
+"rich_content": null
+}
+],
+"themeday": null,
+"banner": null,
+"controlled_banners": null
+}
+}
